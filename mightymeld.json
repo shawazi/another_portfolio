@@ -3,6 +3,7 @@
     "include": [
         "src"
     ],
+    "prefab_dir": "src/prefabs",
     "run_prettier": true,
     "web_server_url": "http://localhost:5173"
 }
